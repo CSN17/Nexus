@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to the RUM Test Page
 
-You can use the [editor on GitHub](https://github.com/CSN17/Nexus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you'll find goofy cat and dog pics fot your viewing pleasure
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Scroll On
 
-### Markdown
+# Who said we can't be best friends
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+alec-favale-Ivzo69e18nk-unsplash.jpg
 
-```markdown
-Syntax highlighted code block
+alvan-nee-lvFlpqEvuRM-unsplash.jpg
 
-# Header 1
-## Header 2
-### Header 3
+andrew-s-ouo1hbizWwo-unsplash.jpg
 
-- Bulleted
-- List
+krista-mangulsone-9gz3wfHr65U-unsplash.jpg
 
-1. Numbered
-2. List
+louis-philippe-poitras-sJgucUmcaKE-unsplash.jpg
 
-**Bold** and _Italic_ and `Code` text
+mathilde-langevin-qiDyeVRYSIE-unsplash.jpg
 
-[Link](url) and ![Image](src)
-```
+nita-anggraeni-goenawan-9vvEXgi95Tc-unsplash.jpg
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+rafael-forseck-qVfSbJjtocI-unsplash.jpg
 
-### Jekyll Themes
+tadeusz-lakota-LUNqk8qth2A-unsplash.jpg
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CSN17/Nexus/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+victor-grabarczyk-N04FIfHhv_k-unsplash.jpg
